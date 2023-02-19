@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eitan.</h1>
-<h3 align="center">a driven, autodidact who has experience creating a few web front-to-back projects according to the modern software development life cycle approach and tools (versioning, testing, building, and deploying). Converting intellectual property into automated web apps (via MERN and FreMP stacks).</h3>
+<h2 align="center">Hi 👋, I'm Eitan.</h1><a href="https://linkedin.com/in/eitanber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="30" width="40" /></a>
+<h3 align="left">a driven, autodidact who has experience creating a few web front-to-back projects according to the modern software development life cycle approach and tools (versioning, testing, building, and deploying). Converting intellectual property into automated web apps (via MERN and FreMP stacks).</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/eitanber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="30" width="40" /></a>
 </p>
