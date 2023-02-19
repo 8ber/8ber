@@ -1,5 +1,8 @@
-<h2 align="center">Hi 👋, I'm Eitan.<a href="https://linkedin.com/in/eitanber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="30" width="40" /></a></h1>
-<h3 align="left">Aspiring self-learner with a passion for automation, iaac, and cutting-edge web development tech stacks..</h3>
+<h3 align="center">Hi 👋, I'm Eitan.
+<br>
+Contact me at: 
+<a href="https://linkedin.com/in/eitanber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="30" width="40" /></a></h1>
+<h3 align="left">Aspiring self-learner with a passion for automation, iaac, and cutting-edge web development tech stacks.</h3>
 
 
 
