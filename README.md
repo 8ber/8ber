@@ -7,7 +7,7 @@ Aspiring self-learner with a passion for automation, iaac, and cutting-edge web 
 
 <h5 align="left">
 Contact me at: 
-<a href="https://linkedin.com/in/eitanber" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="10" width="15" /></a></h5>
+<a href="https://linkedin.com/in/eitanber" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eitanber" height="15" width="20" /></a></h5>
 
 
 
