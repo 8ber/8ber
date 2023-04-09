@@ -4,7 +4,7 @@
 
 <h4 align="left">Hi 👋, I'm Eitan.
 <br>
-Aspiring self-learner with a passion for automation, iaac, and cutting-edge web development tech stacks.
+Aspiring self-learner with a passion for automation, IaC, and cutting-edge web development tech stacks.
 </h4>
 
 
