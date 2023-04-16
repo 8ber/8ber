@@ -1,5 +1,5 @@
 <p align="center"> 
- <img src="https://thedevopsrunner.netlify.app/images/logoDark.svg" alt="8ber" width="30%" /> 
+ <img src="https://thedevopsrunner.netlify.app/images/logoDark.svg" alt="8ber" width="35%" /> 
  </p>
 
 <h4 align="left">Hi 👋, I'm Eitan.
